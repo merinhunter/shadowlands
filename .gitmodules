@@ -1,0 +1,3 @@
+[submodule "oribos"]
+	path = oribos
+	url = https://github.com/merinhunter/oribos.git
